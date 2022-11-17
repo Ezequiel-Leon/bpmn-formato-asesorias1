@@ -1721,7 +1721,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
-  color: #666;
+  color: rgb(255, 255, 255);
   text-rendering: optimizeLegibility;
   margin-top: 0.2em;
   margin-bottom: 0.5em;
@@ -3314,7 +3314,7 @@ a {
 
 /* line 38, ../../sass/_export.scss */
 a:hover {
-  color: #d66400;
+  color: #ffffff;
 }
 
 /* line 42, ../../sass/_export.scss */
